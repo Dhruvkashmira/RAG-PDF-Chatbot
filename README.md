@@ -10,6 +10,17 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions from PDF d
 - Stores and retrieves relevant chunks using Qdrant Cloud.
 - Generates context-based answers using Groq API.
 - Provides API endpoints through FastAPI.
+  
+## 📸 Project Screenshots
+
+### API Endpoints
+![API Endpoints](screenshots/endpoints_output.png)
+
+### PDF Upload
+![PDF Upload](screenshots/upload_.png)
+
+### Question Answering
+![Question Answering](screenshots/Screenshot%20from%202026-10-11%2020-06-36.png)
 
 ## 🛠️ Tech Stack
 
